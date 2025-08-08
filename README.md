@@ -2,13 +2,6 @@
 # RGB-T Research Collection
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)](https://github.com/VisionVerse/Awesome-RGBT/pulls)
-[![Stars](https://img.shields.io/github/stars/VisionVerse/Awesome-RGBT)](https://github.com/VisionVerse/Awesome-RGBT/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-<div align="center">
-  <img src="/thermal.png" alt="RGB-T Vision" width="400"/>
-</div>
 
 ## 📖 Overview
 
