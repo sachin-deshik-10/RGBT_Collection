@@ -1,15 +1,6 @@
 #  RGB-T Research Collection
 
 
-## 📖 Overviewesearch Collection
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)](https://github.com/VisionVerse/Awesome-RGBT/pulls)
-[![Stars](https://img.shields.io/github/stars/VisionVerse/Awesome-RGBT)](https://github.com/VisionVerse/Awesome-RGBT/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-
-
 ## 📖 Overview
 
 This repository provides a comprehensive collection of **research papers, source codes, and datasets** for RGB-Thermal (RGB-T) computer vision tasks based on deep learning methodologies. Our curated list covers the latest advances in multi-modal vision research, combining visible and thermal imaging modalities.
